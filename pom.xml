@@ -59,6 +59,11 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		
+		<!-- set name of jar file and goal -->
+		<finalName>scalerproj-automation</finalName>
+		<defaultGoal>install</defaultGoal>
+		
 	</build>
 
 </project>
